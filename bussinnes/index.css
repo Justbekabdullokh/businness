@@ -18,6 +18,11 @@
 h3{
     text-align: center;
 }
+.bodyname{
+    text-align: center;
+    color: black;
+
+}
 
 
 
@@ -43,25 +48,25 @@ h3{
 #tg{
     text-decoration: none;
     position: absolute;
-    margin-left: 120px;
+    margin-left: 190px;
     margin-top: 10px;
 }
 #ig{
     text-decoration: none;
     position: absolute;
-    margin-left: 170px;
+    margin-left: 240px;
     margin-top: 10px;
 }
 #tt{
     text-decoration: none;
     position: absolute;
-    margin-left: 220px;
+    margin-left: 280px;
     margin-top: 10px;
 }
 #g{
     text-decoration: none;
     position: absolute;
-    margin-left: 260px;
+    margin-left: 320px;
     margin-top: 10px;
 }
 
@@ -69,4 +74,5 @@ h3{
     text-decoration: none;
     color: white;
 }
+
 
